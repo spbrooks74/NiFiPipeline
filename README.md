@@ -1,5 +1,5 @@
 # NiFiPipeline
-I practice performing ETL on a database that contains information about some movies by constructing NiFi pipelines that act first on an Excel file and then on a MySQL database. 
+I practiced performing ETL on a database that contains information about some movies by constructing NiFi pipelines that act first on an Excel file and then on a MySQL database. 
 In the first part, I constructed a NiFi pipeline to move data from an Excel file to a .csv file. 
 In the second part, I move the data from a .csv file to a MySQL database using a NiFi pipeline.
 
